@@ -3,4 +3,4 @@ Cybersecurity student building strong practical skills in web security, networki
 
 
 Proyects:
-https://github.com/NiKolasRI/
+https://github.com/NiKolasRI/wazuh-soc-lab
