@@ -4,3 +4,4 @@ Cybersecurity student building strong practical skills in web security, networki
 
 Proyects:
 https://github.com/NiKolasRI/wazuh-soc-lab
+https://github.com/NiKolasRI/Splunk-SIEM-lab
